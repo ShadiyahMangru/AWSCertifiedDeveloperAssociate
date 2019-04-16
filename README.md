@@ -46,7 +46,7 @@ Notes in Preparation for Exam DVA-C01
    -	To ensure IP for your instance is fixed
    -	With elastic IP address, can mask failure of an instance or software by rapidly remapping the address to another instance in your account
 - Recommend avoid elastic IP and use (i) a random public IP and register DNS name to it or (ii) load balancer and no public IP
-- If EC2 instance stopped then started, public IP can change
+- If EC2 instance stopped then started, PUBLIC IP can change (if elastic IP NOT associated with the instance)
 
 ...
 
