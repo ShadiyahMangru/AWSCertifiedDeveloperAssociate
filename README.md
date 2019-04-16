@@ -31,7 +31,7 @@ Notes in Preparation for Exam DVA-C01
    -	use Putty from a Windows machine (Putty Key Generator for .ppk file)
 - Security Group
    -	to control inbound/outbound traffic through ports to/from EC2 instance
-   -	to control authorized IP ranges – Ipv4 and IPv6
+   -	to control authorized IP ranges – IPv4 and IPv6
    -	all outbound traffic authorized by default
    -	can be attached to multiple instances
    -	specific to region and VPC combination
