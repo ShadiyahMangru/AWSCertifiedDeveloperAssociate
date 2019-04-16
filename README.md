@@ -25,7 +25,7 @@ Notes in Preparation for Exam DVA-C01
 - EC2 security group – a firewall around your instance
 - SSH source 0.0.0.0/0 means your security group open to the world
 - Create key pair to access launched EC2 instance
-- Instance state: start/stop/reboot terminate
+- Instance state: start/stop/reboot/terminate
 - SSH (port 22):
    -	allows you to control a remote machine, all using CLI (from a terminal)
    -	use Putty from a Windows machine (Putty Key Generator for .ppk file)
