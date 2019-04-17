@@ -49,6 +49,7 @@ Notes in Preparation for Exam DVA-C01
 - If EC2 instance stopped then started, PUBLIC IP can change (if elastic IP NOT associated with the instance)
 
 - section 3, video 20 to install an Apache Web Server to display a web page
+- section 3, video 21  to create webpage via automated boot tasks / EC2 user data script (activate SSH, http, and https in security groups to avoid connection timeout)
 
 ...
 
