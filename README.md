@@ -36,7 +36,7 @@ Notes in Preparation for Exam DVA-C01
    -	can be attached to multiple instances
    -	specific to region and VPC combination
    -	application time out: security group issue
-   -	“connection refused” error: application error or instance not launched
+   -	“connection refused” error: application error or instance not launched (https://aws.amazon.com/premiumsupport/knowledge-center/ec2-server-refused-our-key/)
 - Internet Gateway – public gateway (to connect private machines to www)
 - With private IP:
    -	only accessible within private network
