@@ -48,6 +48,8 @@ Notes in Preparation for Exam DVA-C01
 - Recommend avoid elastic IP and use (i) a random public IP and register DNS name to it or (ii) load balancer and no public IP
 - If EC2 instance stopped then started, PUBLIC IP can change (if elastic IP NOT associated with the instance)
 
+- section 3, video 20 to install an Apache Web Server to display a web page
+
 ...
 
 ## Sources
