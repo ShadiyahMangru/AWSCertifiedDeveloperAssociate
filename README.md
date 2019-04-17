@@ -58,8 +58,8 @@ Notes in Preparation for Exam DVA-C01
    - spot (bid) -- instance lost when outbid
    - dedicated instances -- no other customers will share your hardware
    - dedicated hosts -- often for strong regulatory or compliance needs
-
 <br>
+
 ## AWS Fundamentals: ELB + ASG + EBS
 
 ## Sources
