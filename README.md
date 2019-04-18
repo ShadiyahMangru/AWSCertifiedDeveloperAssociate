@@ -98,7 +98,7 @@ echo "Hello World" > /var/www/html/index.html
 
 ## AWS Fundamentals: Route 53 + RDS + ElastiCache + VPC
 ### Route 53: 
-
+- if want instead of auto-assigned load balancer DNS address
 <br>
 
 ## Sources
