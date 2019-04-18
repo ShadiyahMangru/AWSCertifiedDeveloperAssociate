@@ -96,5 +96,10 @@ echo "Hello World" > /var/www/html/index.html
 
 <br>
 
+## AWS Fundamentals: Route 53 + RDS + ElastiCache + VPC
+### Route 53: 
+
+<br>
+
 ## Sources
 - Ultimate AWS Certified Developer Associate 2019 (Udemy for Business)
