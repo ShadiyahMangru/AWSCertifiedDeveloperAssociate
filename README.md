@@ -61,6 +61,19 @@ Notes in Preparation for Exam DVA-C01
 <br>
 
 ## AWS Fundamentals: ELB + ASG + EBS
+### ELB:
+- high availability across zones
+- ELB: managed load balancer
+- application load balancer to balance multiple applications on same machine (ex. containers)
+- classic load balancers -- deprecated
+- application load balancers -- http/https and websockets
+- network load balancer -- TCP
+- all load balancers have health check capability
+- with load balancer, assigned a DNS.  if have an EC2 instance with an IP address (an IP that may not be fixed), can use load balancer to register this EC2 instance as a target EC2 instance and configure the security group associated with that EC2 instance so that incoming (port 80) traffic ONLY COMES FROM LOAD BALANCER.  Now only reach .html info from that EC2 instance from load balancer DNS address (can no longer access from EC2 instance IP (maybe unfixed) address)
+
+### ASG:
+
+<br>
 
 ## Sources
 - Ultimate AWS Certified Developer Associate 2019 (Udemy for Business)
