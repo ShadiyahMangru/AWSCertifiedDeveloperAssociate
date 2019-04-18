@@ -72,6 +72,9 @@ Notes in Preparation for Exam DVA-C01
 - with load balancer, assigned a DNS.  if have an EC2 instance with an IP address (an IP that may not be fixed), can use load balancer to register this EC2 instance as a target EC2 instance and configure the security group associated with that EC2 instance so that incoming (port 80) traffic ONLY COMES FROM LOAD BALANCER.  Now only reach .html info from that EC2 instance from load balancer DNS address (can no longer access from EC2 instance IP (maybe unfixed) address)
 
 ### ASG:
+- IAM roles attached to an ASG will get assigned to EC2 instances
+- when creating an ASG, step 1 creates launch config (incl. user data for boot instructions)
+- $(hostname -f) on echo line (of user data script) will display address of different instances to which load balancer routing
 
 <br>
 
