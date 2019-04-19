@@ -106,6 +106,7 @@ echo "Hello World" > /var/www/html/index.html
 ## AWS Fundamentals: Amazon S3
 - reference QwikLabs 'Introduction to Amazon Simple Storage Service (S3)'
 - https://s3.amazonaws.com/shadiyahsbucket/mmGlasses.jpg (access no longer denied via permissions)
+- can also store .html files in S3 bucket: https://s3.amazonaws.com/shadiyahsbucket/HelloWorld.html
 
 ## Sources
 - Ultimate AWS Certified Developer Associate 2019 (Udemy for Business)
