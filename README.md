@@ -99,7 +99,13 @@ echo "Hello World" > /var/www/html/index.html
 ## AWS Fundamentals: Route 53 + RDS + ElastiCache + VPC
 ### Route 53: 
 - if want instead of auto-assigned load balancer DNS address
+
+...
 <br>
+
+## AWS Fundamentals: Amazon S3
+- reference QwikLabs 'Introduction to Amazon Simple Storage Service (S3)'
+- https://s3.amazonaws.com/shadiyahsbucket/mmGlasses.jpg (access no longer denied via permissions)
 
 ## Sources
 - Ultimate AWS Certified Developer Associate 2019 (Udemy for Business)
