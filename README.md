@@ -1,6 +1,8 @@
 # AWS Certified Developer -- Associate
 Notes in Preparation for Exam DVA-C01
 
+## UPDATES TO THIS 'AWS CLOUD FEATURES I WOULD ACTUALLY USE' GUIDE MIGRATED TO HERE: https://s3.amazonaws.com/shadiyahsbucket/AWSCloudFeatures.html
+
 ## AWS Fundamentals: IAM + EC2
 
 - IAM Federation:
